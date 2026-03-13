@@ -2,7 +2,7 @@
 
 This repository contains personal projects related to computational drug discovery and cheminformatics developed while working at the Korea Research Institute of Chemical Technology (KRICT), Infectious Disease Therapeutics Research Center.
 The work focuses on applying machine learning and structural analysis methods to small-molecule drug discovery problems, including ADMET prediction and protein–ligand binding affinity modeling.
-Each project is organized in separate branches.
+Each project is organized in separate directories within this repository for clarity.
 
 ---
 
