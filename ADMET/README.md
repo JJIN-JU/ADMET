@@ -1,6 +1,6 @@
 # ADMET Prediction Model
 
-This code for building and training an ADMET prediction model based on molecular graph neural networks.
+This directory contains code for building and training an ADMET prediction model based on molecular graph neural networks.
 
 ## Overview
 
