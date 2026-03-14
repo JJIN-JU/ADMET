@@ -434,7 +434,7 @@ checkpointing = ModelCheckpoint(
     "path/to/your/directory",  # Directory where model checkpoints will be saved
     "endpoints-{epoch}-{val_roc:.2f}",  # Filename format for checkpoints, including epoch and validation loss
     "val/roc",  # Metric used to select the best checkpoint (based on validation loss)
-    mode="max",  # Save the checkpoint with the validation loss
+    mode="max",  # Save the checkpoint with validation loss ("min" or "max")
     save_last=True,  # Always save the most recent checkpoint, even if it's not the best
 )
 
