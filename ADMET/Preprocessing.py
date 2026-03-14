@@ -24,7 +24,7 @@ from rdkit.Chem.MolStandardize import rdMolStandardize
 # Input dataset requirements:
 # - The input file must be a CSV file containing a SMILES column.
 # - The target property column (e.g., activity, toxicity, affinity)
-#   should be defined by the user depending on the prediction task.
+#   should be curated and prepared by the user depending on the prediction task.
 # - This preprocessing script only standardizes molecular structures
 #   and does not modify target labels for classification or regression tasks.
 
