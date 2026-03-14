@@ -2,6 +2,8 @@
 
 This project implements a **protein–ligand binding affinity prediction model** using structural information from ligand molecules and protein binding pockets.
 
+(This project implements a protein–ligand binding affinity prediction model developed as part of my independent research.)
+
 ## Overview
 
 Development of a deep learning pipeline for predicting **protein–ligand binding affinity** using structural features extracted from ligand molecules and protein binding sites.
